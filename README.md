@@ -5,10 +5,10 @@
 </p>
 
 
-<p align="left">
-  <img src="assets/app-icon.png" width="20">
-  <h1>Know My Number</h1>
-</p>
+<h1>
+  <img src="assets/app-icon.png" width="45" align="center">
+  Know My Number
+</h1>
 
 **An Educational Android App for Children**
 
