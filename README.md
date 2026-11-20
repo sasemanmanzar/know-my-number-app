@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="screenshots/screenshot-1.jpg" width="32%">
-  <img src="screenshots/screenshot-2.jpg" width="32%">
+  <img src="screenshots/screenshot-10.jpg" width="32%">
   <img src="screenshots/screenshot-3.jpg" width="32%">
+  <img src="screenshots/screenshot-8.jpg" width="32%">
 </p>
 
 <h1>
