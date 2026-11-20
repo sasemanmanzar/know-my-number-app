@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="screenshots/screenshot-1.png" width="32%">
+  <img src="screenshots/screenshot-2.png" width="32%">
+  <img src="screenshots/screenshot-3.png" width="32%">
+</p>
+
 # Know My Number 📞
 
 **An Educational Android App for Children**
@@ -14,12 +20,14 @@ The app provides a playful and child-friendly environment where children can pra
 - Phone number memorization exercises
 - Reward-based gameplay
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
 
 - **Language:** Kotlin
+- **Platform:** Android SDK
+- **UI Development:** XML Layouts
+- **Backend & Analytics:** Firebase Analytics
+- **Monetization:** In-App Billing & Ads Integration
 - **Development Environment:** Android Studio
-- **Backend & Analytics:** Firebase
-- **Architecture & UI:** Native Android
 
 ## 📥 Download
 
