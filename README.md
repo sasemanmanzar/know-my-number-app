@@ -4,7 +4,12 @@
   <img src="screenshots/screenshot-3.jpg" width="32%">
 </p>
 
-# Know My Number 📞
+
+<p align="center">
+  <img src="assets/app-icon.png" width="100">
+</p>
+
+<h1 align="center">Know My Number</h1>
 
 **An Educational Android App for Children**
 
