@@ -4,10 +4,9 @@
   <img src="screenshots/screenshot-3.jpg" width="32%">
 </p>
 
-
 <h1>
   <img src="assets/app-icon.png" width="45" align="center">
-  Know My Number
+  &nbsp; Know My Number
 </h1>
 
 **An Educational Android App for Children**
