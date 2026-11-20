@@ -5,8 +5,8 @@
 </p>
 
 <h1>
-  <img src="assets/app-icon.png" width="45" align="center">
-  &nbsp; Know My Number
+  <img src="assets/app-icon.png" width="45" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">&nbsp; Know My Number</span>
 </h1>
 
 **An Educational Android App for Children**
